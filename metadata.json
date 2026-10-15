@@ -1,0 +1,6 @@
+{
+  "name": "TrafficVision AI — Real-Time Traffic & Pedestrian Monitoring",
+  "description": "Real-time vehicle and pedestrian detection, ByteTrack multi-object tracking, directional line crossing analytics, and live streaming dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
